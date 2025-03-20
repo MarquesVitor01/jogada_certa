@@ -15,3 +15,8 @@ Principal objetivo do **Jogada Certa** é reunir iniciativas esportivas com foco
 - **Frontend**: React Native (para aplicativos móveis Android e iOS)
 - **Backend**: Node.js / Express 
 - **Banco de Dados / Autenticação**: Firebase
+
+
+## Figma 
+
+https://www.figma.com/design/uzZPTZ47ygEuF9vFwzClk5/Jogada-Certa?node-id=0-1&t=YZ7THGgZd7jZ1ZS4-1
